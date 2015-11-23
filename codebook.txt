@@ -8,13 +8,13 @@ activityFactor
 	Name of the activity subject engaged in.
 
 tBodyAcc-mean()-X
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration in X direction in time domain.
 
 tBodyAcc-mean()-Y
-	Mean body acceleration mean in Y direction in time domain.
+	Mean body acceleration in Y direction in time domain.
 
 tBodyAcc-mean()-Z
-	Mean body acceleration mean in Y direction in time domain.
+	Mean body acceleration in Y direction in time domain.
 
 tBodyAcc-std()-X
 	Std. deviation of body acceleration in X direction in time domain.
@@ -26,13 +26,13 @@ tBodyAcc-std()-Z
 	Std. deviation of body acceleration in Z direction in time domain.
 
 tGravityAcc-mean()-X
-	Mean gravity acceleration mean in X direction in time domain.
+	Mean gravity acceleration in X direction in time domain.
 
 tGravityAcc-mean()-Y
-	Mean gravity acceleration mean in Y direction in time domain.
+	Mean gravity acceleration in Y direction in time domain.
 
 tGravityAcc-mean()-Z
-	Mean gravity acceleration mean in Z direction in time domain.
+	Mean gravity acceleration in Z direction in time domain.
 
 tGravityAcc-std()-X
 	Std. deviation of gravity acceleration in X direction in time domain.
@@ -92,10 +92,10 @@ tBodyGyroJerk-std()-X
 	Std. deviation of jerk angular velocity in X direction in time domain.
 
 tBodyGyroJerk-std()-Y
-	Std. deviation of jerk angular velocity in X direction in time domain.
+	Std. deviation of jerk angular velocity in Y direction in time domain.
 
 tBodyGyroJerk-std()-Z
-	Std. deviation of jerk angular velocity in X direction in time domain.
+	Std. deviation of jerk angular velocity in Z direction in time domain.
 
 tBodyAccMag-mean()
 	Mean magnitude of acceleration in time domain.
@@ -104,143 +104,143 @@ tBodyAccMag-std()
 	Std. deviation of magnitude of acceleration in time domain.
 
 tGravityAccMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean gravity acceleration in time domain.
 
 tGravityAccMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of gravity acceleration in time domain.
 
 tBodyAccJerkMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean jerk magnitude in time domain.
 
 tBodyAccJerkMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of jerk magnitude in time domain.
 
 tBodyGyroMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean angular velocity in time domain.
 
 tBodyGyroMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of angular velocity in time domain.
 
 tBodyGyroJerkMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean angular jerk velocity in time domain.
 
 tBodyGyroJerkMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of angular jerk magnitude in time domain.
 
 fBodyAcc-mean()-X
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAcc-mean()-Y
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Y direction in frequency domain.
 
 fBodyAcc-mean()-Z
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Z direction in frequency domain.
 
 fBodyAcc-std()-X
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in X direction in frequency domain.
 
 fBodyAcc-std()-Y
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in Y direction in frequency domain.
 
 fBodyAcc-std()-Z
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in Z direction in frequency domain.
 
 fBodyAcc-meanFreq()-X
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAcc-meanFreq()-Y
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAcc-meanFreq()-Z
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAccJerk-mean()-X
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAccJerk-mean()-Y
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAccJerk-mean()-Z
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAccJerk-std()-X
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in X direction in frequency domain.
 
 fBodyAccJerk-std()-Y
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in X direction in frequency domain.
 
 fBodyAccJerk-std()-Z
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in X direction in frequency domain.
 
 fBodyAccJerk-meanFreq()-X
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyAccJerk-meanFreq()-Y
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Y direction in frequency domain.
 
 fBodyAccJerk-meanFreq()-Z
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Z direction in frequency domain.
 
 fBodyGyro-mean()-X
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyGyro-mean()-Y
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Y direction in frequency domain.
 
 fBodyGyro-mean()-Z
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Z direction in frequency domain.
 
 fBodyGyro-std()-X
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in X direction in frequency domain.
 
 fBodyGyro-std()-Y
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in Y direction in frequency domain.
 
 fBodyGyro-std()-Z
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in Z direction in frequency domain.
 
 fBodyGyro-meanFreq()-X
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in X direction in frequency domain.
 
 fBodyGyro-meanFreq()-Y
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Y direction in frequency domain.
 
 fBodyGyro-meanFreq()-Z
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in Z direction in frequency domain.
 
 fBodyAccMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
 fBodyAccMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in frequency domain.
 
 fBodyAccMag-meanFreq()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
 fBodyBodyAccJerkMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
 fBodyBodyAccJerkMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration n frequency domain.
 
 fBodyBodyAccJerkMag-meanFreq()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
 fBodyBodyGyroMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
 fBodyBodyGyroMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in frequency domain.
 
 fBodyBodyGyroMag-meanFreq()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
 fBodyBodyGyroJerkMag-mean()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
 fBodyBodyGyroJerkMag-std()
-	Std. deviation of body acceleration in X direction in time domain.
+	Std. deviation of body acceleration in frequency domain.
 
 fBodyBodyGyroJerkMag-meanFreq()
-	Mean body acceleration mean in X direction in time domain.
+	Mean body acceleration mean in frequency domain.
 
